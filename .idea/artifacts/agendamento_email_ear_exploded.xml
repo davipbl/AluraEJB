@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="agendamento-email:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/agendamento_email_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="agendamento-email/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>

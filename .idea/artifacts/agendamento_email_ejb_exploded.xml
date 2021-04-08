@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="agendamento-email:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/agendamento_email_ejb_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="agendamento-email/ejb/EJB" />
+      <element id="javaee-facet-classes" facet="agendamento-email/ejb/EJB" />
+    </root>
+  </artifact>
+</component>
